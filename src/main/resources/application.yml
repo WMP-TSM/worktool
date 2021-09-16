@@ -1,0 +1,35 @@
+#服务器端口
+server:
+  port: 10515
+  servlet:
+    context-path: /worktool
+
+spring:
+  datasource:
+    username: deployop
+    password: A7JS8wds
+    url: jdbc:mysql://29.2.178.86:16665/cloudpay?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
