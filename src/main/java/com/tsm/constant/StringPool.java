@@ -2,7 +2,7 @@ package com.tsm.constant;
 
 /**
  * @Description: 字符串常量
- * @Author: ex_kjkfb_wenmuping
+ * @Author: raining19
  * @Date: 2021/07/19/17:28
  * @Version: 1.0
  */

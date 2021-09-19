@@ -13,7 +13,7 @@ import java.util.zip.*;
 
 /**
  * @Description: 文件工具
- * @Author: ex_kjkfb_wenmuping
+ * @Author: raining19
  * @Date: 2021/07/19/17:12
  * @Version: 1.0
  */
@@ -36,8 +36,8 @@ public class FileTool {
         /*File file = new File(dirPath);
         System.out.println(file.getName());
         System.out.println(file.length());*/
-
     }
+
     /**
      * 扫描文件夹，获取所有文件路径
      *
